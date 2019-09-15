@@ -1,0 +1,76 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: text/streszczenie.aux
+A level-1 auxiliary file: text/wstep.aux
+A level-1 auxiliary file: text/przeglad_literatury.aux
+A level-1 auxiliary file: text/opis_narzedzi.aux
+A level-1 auxiliary file: text/algorytmy.aux
+A level-1 auxiliary file: text/implementacja_systemu.aux
+A level-1 auxiliary file: text/dzialanie_systemu.aux
+A level-1 auxiliary file: text/podsumowanie.aux
+The style file: plplain.bst
+Database file #1: bibliography.bib
+Repeated entry---line 284 of file bibliography.bib
+ : @misc{bib:impedance
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in bib:velma2
+Warning--to sort, need author or key in bib:robotyka
+Warning--to sort, need author or key in bib:kukaPage
+Warning--to sort, need author or key in bib:barrett
+Warning--to sort, need author or key in bib:ROS
+Warning--to sort, need author or key in bib:Orocos
+Warning--to sort, need author or key in bib:Gazebo
+Warning--to sort, need author or key in bib:dart
+Warning--to sort, need author or key in bib:evaluate_ape
+Warning--empty booktitle in bib:kuka
+Warning--empty year in bib:kuka
+Warning--empty booktitle in bib:horn
+Warning--empty year in bib:horn
+Warning--empty booktitle in bib:lpcBase
+Warning--empty year in bib:lpcBase
+Warning--empty journal in bib:agent2
+Warning--can't use both volume and number fields in Zielinski:2014_kkr_relacje-twiki
+You've used 31 entries,
+            2129 wiz_defined-function locations,
+            693 strings with 9927 characters,
+and the built_in function-call counts, 10813 in all, are:
+= -- 1078
+> -- 404
+< -- 19
++ -- 161
+- -- 129
+* -- 640
+:= -- 1546
+add.period$ -- 97
+call.type$ -- 31
+change.case$ -- 153
+chr.to.int$ -- 0
+cite$ -- 48
+duplicate$ -- 461
+empty$ -- 982
+format.name$ -- 129
+if$ -- 2471
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 19
+newline$ -- 155
+num.names$ -- 56
+pop$ -- 287
+preamble$ -- 1
+purify$ -- 122
+quote$ -- 0
+skip$ -- 403
+stack$ -- 0
+substring$ -- 620
+swap$ -- 171
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 124
+warning$ -- 17
+while$ -- 86
+width$ -- 33
+write$ -- 320
+(There was 1 error message)
